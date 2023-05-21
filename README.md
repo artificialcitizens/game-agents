@@ -1,6 +1,6 @@
 # RPG AGENTS
 
-A variation of the CAMEL Agents as created in the [Langchain](https://python.langchain.com/en/latest/use_cases/agent_simulations/camel_role_playing.html)
+A variation of the CAMEL Agents as created in the [Langchain](https://python.langchain.com/en/latest/use_cases/agent_simulations/camel_role_playing.html) library.
 
 I've hooked this up to Discord as seen in this [video](https://twitter.com/AI_Citizen/status/1648956371268952065?s=20)
 
